@@ -1,0 +1,42 @@
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 366 entries, 0 to 365
+Data columns (total 35 columns):
+ #   Column                                     Non-Null Count  Dtype 
+---  ------                                     --------------  ----- 
+ 0    erythema                                  366 non-null    int64 
+ 1    scaling                                   366 non-null    int64 
+ 2    definite borders                          366 non-null    int64 
+ 3    itching                                   366 non-null    int64 
+ 4    koebner phenomenon                        366 non-null    int64 
+ 5    polygonal papules                         366 non-null    int64 
+ 6    follicular papules                        366 non-null    int64 
+ 7    oral mucosal involvement                  366 non-null    int64 
+ 8    knee and elbow involvement                366 non-null    int64 
+ 9    scalp involvement                         366 non-null    int64 
+ 10   family history                            366 non-null    int64 
+ 11   melanin incontinence                      366 non-null    int64 
+ 12   eosinophils in the infiltrate             366 non-null    int64 
+ 13   PNL infiltrate                            366 non-null    int64 
+ 14   fibrosis of the papillary dermis          366 non-null    int64 
+ 15   exocytosis                                366 non-null    int64 
+ 16   acanthosis                                366 non-null    int64 
+ 17   hyperkeratosis                            366 non-null    int64 
+ 18   parakeratosis                             366 non-null    int64 
+ 19   clubbing of the rete ridges               366 non-null    int64 
+ 20   elongation of the rete ridges             366 non-null    int64 
+ 21   thinning of the suprapapillary epidermis  366 non-null    int64 
+ 22   spongiform pustule                        366 non-null    int64 
+ 23   munro microabcess                         366 non-null    int64 
+ 24   focal hypergranulosis                     366 non-null    int64 
+ 25   disappearance of the granular layer       366 non-null    int64 
+ 26   vacuolisation and damage of basal layer   366 non-null    int64 
+ 27   spongiosis                                366 non-null    int64 
+ 28   saw-tooth appearance of retes             366 non-null    int64 
+ 29   follicular horn plug                      366 non-null    int64 
+ 30   perifollicular parakeratosis              366 non-null    int64 
+ 31   inflammatory monoluclear inflitrate       366 non-null    int64 
+ 32   band-like infiltrate                      366 non-null    int64 
+ 33   Age (linear)                              366 non-null    object
+ 34  Class                                      366 non-null    int64 
+dtypes: int64(34), object(1)
+memory usage: 100.2+ KB
